@@ -1,6 +1,6 @@
 {
   "name": "test-npm-update",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An empty package to test npm update",
   "repository": {
     "type": "git",
